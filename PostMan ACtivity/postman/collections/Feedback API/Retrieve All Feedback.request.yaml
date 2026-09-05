@@ -1,5 +1,0 @@
-$kind: http-request
-description: ""
-url: http://localhost:4000/feedback
-method: GET
-order: 3646917662212871
